@@ -2,9 +2,9 @@
 
 - Recency-Frequency-Monetary (RFM) is an indexing technique that uses past purchase behavior to segment customers.
 - An RFM report is a way of segmenting customers using three key metrics:
- -- Recency - how long ago their last purchase was.
- -- Frequency - how often they purchase.
- -- Monetary value - how much they spent.
+	a. Recency - how long ago their last purchase was.
+ 	b. Frequency - how often they purchase.
+ 	c. Monetary value - how much they spent.
 
 ## DATA POINTS USED IN RFM ANALYSIS
 
