@@ -25,4 +25,4 @@ Broadly, within databases, tables are organized in schemas. At Mode, we organize
 
 ## About this dataset
 
-To start out, I'll be working with real data from the U.S. Census. This dataset shows the number of completed housing units in major regions of the United States. The table I'll be working with has a column for each region. The values in each row represent the number of housing units completed in thousands during the corresponding month. The data was collected in August 2014 and can be accessed at the (U.S. Census website)[https://www.census.gov/econ/currentdata/].
+To start out, I'll be working with real data from the U.S. Census. This dataset shows the number of completed housing units in major regions of the United States. The table I'll be working with has a column for each region. The values in each row represent the number of housing units completed in thousands during the corresponding month. The data was collected in August 2014 and can be accessed at the [U.S. Census website](https://www.census.gov/econ/currentdata/).
